@@ -16,25 +16,28 @@ _of course_ she whispered.then she shouted : "All i need is *a little moxie*
 
 Heres some words about the book _one hundred years..._
 
-####link
-[search for it.](www.google.com)
+[Search for it.](www.google.com)
 
-### Emphasis
-[you're **really,really** going to want to see this](www.dailykitten.com)
+[You're *really, really* going to want to see this.](www.dailykitten.com)
 
-### link as heading
-#### the latest news from [The BBC](www.bbc.com)
+#### The Latest News from [the BBC](www.bbc.com/news)
 
-#### Reference link
-Do you want to [see something fun](www.zombo.com)
-well,do i have [the website for you](www.stumbleupon.com)
+Do you want to [see something fun][a fun place]?
 
-#### Images
-(!)[Benjamin Bannekat](https://octodex.github.com/images/bannekat.png)
-[A pretty tiger](https://upload.wikimedia.org/wikipedia/commons/5/56/Tiger.50.jpg)
+Well, do I have [the website for you][another fun place]!
 
-[Black cat](https://upload.wikimedia.org/wikipedia/commons/a/a3/81_INF_DIV_SSI.jpg)[Orange cat](https://icons.iconarchive.com/icons/google/noto-emoji-animals-nature/256/22221-cat-icon.png)
+[a fun place]:(www.zombo.com)
+[another fun place]: (www.stumbleupon.com)
 
+![A pretty tiger](https://upload.wikimedia.org/wikipedia/commons/5/56/Tiger.50.jpg)
+
+![Black cat][Black]
+
+![Orange cat][Orange]
+
+[Black]: https://upload.wikimedia.org/wikipedia/commons/a/a3/81_INF_DIV_SSI.jpg
+
+[Orange]: http://icons.iconarchive.com/icons/google/noto-emoji-animals-nature/256/22221-cat-icon.png
 #### Blockquotes
 I read this intresting quote the other day:
 > "Her eyes had called him and his soul had leaped at the call. To live,to err,to fall,triumph,to recreate life out of life!"
