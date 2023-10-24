@@ -3,9 +3,9 @@
 Writing in Markdown is not that hard
 i *will* complete this lesson
 
-_of course_ she whispered.then she shouted : "All i need is *a little moxie*
+"_of course_," she whispered.then she shouted : "All i need is *a little moxie*
 
-**_if youre thinking to yourself,this unbelivable,youd probably be right"_*
+if youre thinking to yourself,**_this unbelivable_** ,youd probably be right.
 
 # header one
 ## Header two
